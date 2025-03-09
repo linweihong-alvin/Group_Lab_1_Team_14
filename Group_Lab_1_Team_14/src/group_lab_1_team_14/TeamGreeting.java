@@ -10,7 +10,7 @@ import model.Member3;
  *
  * @author linweihong
  */
-public class Main {
+public class TeamGreeting {
     public static void main(String[] args) {
         Member1.main(args);
         Member2.main(args);
