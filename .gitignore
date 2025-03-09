@@ -1,5 +1,16 @@
 # Compiled class file
+/build/
+/dist/
+/bin/
+/target/
 *.class
+
+# Ignore NetBeans-specific project files
+/nbproject/genfiles.properties
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/configs/
+
 
 # Log file
 *.log
@@ -22,3 +33,5 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/Group_Lab_1_Team_14/nbproject/private/
+/Group_Lab_1_Team_14/build/
